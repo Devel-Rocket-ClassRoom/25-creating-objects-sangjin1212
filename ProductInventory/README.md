@@ -14,7 +14,7 @@
   - `AddStock(int quantity)`: 재고 추가
   - `Sell(int quantity)`: 판매 (재고 부족 시 판매 불가 메시지)
   - `GetTotalValue()`: 총 재고 가치 반환 (가격 x 재고)
-- `ToString()` 오버라이드: `"[상품명] 가격원 (재고: 수량개)"` 형식으로 반환
+  - `ToString()` 오버라이드: `"[상품명] 가격원 (재고: 수량개)"` 형식으로 반환
 
 `Program.cs`:
 
